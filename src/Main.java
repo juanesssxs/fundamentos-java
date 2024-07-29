@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Resultado: " + x);
     }
 
+
+
     public static void ejercicio2() {
         char c = 'A';
         int asciiValue = (int) c;
